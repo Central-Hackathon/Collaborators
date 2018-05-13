@@ -1,5 +1,5 @@
 # Collaborators
-An IoT Agricultural Platform
+An NB IoT Agricultural Platform
 
 Όνομα Ομάδας:
 Collaborators
